@@ -12,7 +12,7 @@
         android:text="@string/button_text"
         android:id="@+id/button"
         android:onClick="onClick"
-        android:layout_alignPartentTop="true"
+        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"/>
 
 </RelativeLayout>
